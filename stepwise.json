@@ -1,0 +1,80 @@
+{
+  "id" : "E1E4572C-1CE3-4275-A680-BB70B97B612D",
+  "title" : "60 Days RL Challenge",
+  "pages" : [
+        {
+          "title" : "An introduction to Reinforcement Learning",
+          "link" : "https:\/\/www.youtube.com\/watch?v=JgvyzIkgxF0"
+        },
+        {
+          "title" : "Introduction and course overview - CS294 by Levine",
+          "link" : "https:\/\/www.youtube.com\/watch?v=Q4kF8sfggoI&index=1&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3"
+        },
+        {
+          "title" : "Deep Reinforcement Learning: Pong from Pixels by Karpathy",
+          "link" : "http:\/\/karpathy.github.io\/2016\/05\/31\/rl\/"
+        },
+        {
+          "title" : "Markov Decision Process - RL by David Silver",
+          "link" : "https:\/\/www.youtube.com\/watch?v=lfHX2hHRMVQ&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=2"
+        },
+        {
+          "title" : "Planning by Dynamic Programming - RL by David Silver",
+          "link" : "https:\/\/www.youtube.com\/watch?v=Nd1-UUMVfz4&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=3"
+        },
+        {
+          "title" : "Model-Free Prediction - RL by David Silver",
+          "link" : "https:\/\/www.youtube.com\/watch?v=PnHCvfgC_ZA&index=4&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-"
+        },
+        {
+          "title" : "Model-Free Control - RL by David Silver",
+          "link" : "https:\/\/www.youtube.com\/watch?v=0g4j2k_Ggc4&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=5"
+        },
+        {
+          "title" : "Q-learning applied to FrozenLake",
+          "link" : "https:\/\/github.com\/andri27-ts\/60_Days_RL_Challenge\/blob\/master\/Week2\/frozenlake_Qlearning.ipynb"
+        },
+        {
+          "title" : "Reinforcement Learning An Introduction - Sutton, Barto",
+          "link" : "https:\/\/web.stanford.edu\/class\/psych209\/Readings\/SuttonBartoIPRLBook2ndEd.pdf"
+        },
+        {
+          "title" : "Value functions introduction - DRL UC Berkley by Sergey Levine",
+          "link" : "https:\/\/www.youtube.com\/watch?v=k1vNh4rNYec&index=6&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3"
+        },
+        {
+          "title" : "Value functions approximation - RL by David Silver",
+          "link" : "https:\/\/www.youtube.com\/watch?v=UoPei5o4fps&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&index=6"
+        },
+        {
+          "title" : "Advanced Q-learning algorithms - DRL UC Berkley by Sergey Levine",
+          "link" : "https:\/\/www.youtube.com\/watch?v=nZXC5OdDfs4&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&index=7"
+        },
+        {
+          "title" : "Playing Atari with Deep Reinforcement Learning - 2013",
+          "link" : "https:\/\/arxiv.org\/pdf\/1312.5602.pdf"
+        },
+        {
+          "title" : "Human-level control through deep reinforcement learning - 2015",
+          "link" : "https:\/\/storage.googleapis.com\/deepmind-media\/dqn\/DQNNaturePaper.pdf"
+        },
+        {
+          "title" : "Rainbow: Combining Improvements in Deep Reinforcement Learning - 2017",
+          "link" : "https:\/\/arxiv.org\/pdf\/1710.02298.pdf"
+        },
+        {
+          "title" : "Deep Reinforcement Learning with Double Q-learning - 2015",
+          "link" : "https:\/\/arxiv.org\/pdf\/1509.06461.pdf"
+        },
+        {
+          "title" : "Prioritized Experience Replay - 2015",
+          "link" : "https:\/\/arxiv.org\/pdf\/1511.05952.pdf"
+        },
+        {
+          "title" : "Dueling Network Architectures for Deep Reinforcement Learning - 2016",
+          "link" : "http:\/\/proceedings.mlr.press\/v48\/wangf16.pdf"
+        }
+  ],
+  "description" : "This repository wants to guide you through the Deep Reinforcement Learning algorithms, from the most basic ones to the highly advanced AlphaGo Zero. You will find the main topics organized by week and the resources suggested to learn them. Also, every week I will provide practical examples implemented in python to help you better digest the theory. You are highly encouraged to modify and play with them!",
+  "imageName" : "journey_logo.png"
+}
