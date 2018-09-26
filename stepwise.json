@@ -1,7 +1,7 @@
 {
-  "id" : "E1E4572C-1CE3-4275-A680-BB70B97B612D",
-  "title" : "60 Days RL Challenge",
-  "pages" : [
+      "id" : "ABD33D51-FAC3-44D7-B79C-02D8E5DD1215",
+      "title" : "60 Days RL Challenge",
+      "pages" : [
         {
           "title" : "An introduction to Reinforcement Learning",
           "link" : "https:\/\/www.youtube.com\/watch?v=JgvyzIkgxF0"
@@ -73,8 +73,52 @@
         {
           "title" : "Dueling Network Architectures for Deep Reinforcement Learning - 2016",
           "link" : "http:\/\/proceedings.mlr.press\/v48\/wangf16.pdf"
+        },
+        {
+          "title" : "Noisy networks for exploration - 2017",
+          "link" : "https:\/\/arxiv.org\/pdf\/1706.10295.pdf"
+        },
+        {
+          "title" : "Distributional Reinforcement Learning with Quantile Regression - 2017",
+          "link" : "https:\/\/arxiv.org\/pdf\/1710.10044.pdf"
+        },
+        {
+          "title" : "Policy gradient Methods - RL by David Silver",
+          "link" : "https:\/\/www.youtube.com\/watch?v=KHZVXao4qXs&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&index=7"
+        },
+        {
+          "title" : "Policy gradient intro - CS294-112 by Sergey Levine (RECAP, optional)",
+          "link" : "https:\/\/www.youtube.com\/watch?v=XGmd3wcyDg8&t=0s&list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37&index=3"
+        },
+        {
+          "title" : "Actor-Critic - CS294-112 by Sergey Levine (More in depth)",
+          "link" : "https:\/\/www.youtube.com\/watch?v=Tol_jw5hWnI&list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37&index=4"
+        },
+        {
+          "title" : "Policy Gradient methods for reinforcement learning with function approximation",
+          "link" : "https:\/\/papers.nips.cc\/paper\/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf"
+        },
+        {
+          "title" : "Asynchronous Methods for Deep Reinforcement Learning",
+          "link" : "https:\/\/arxiv.org\/pdf\/1602.01783.pdf"
+        },
+        {
+          "title" : "Advanced policy gradients - CS294-112 by Sergey Levine",
+          "link" : "https:\/\/www.youtube.com\/watch?v=ycCtmp4hcUs&t=0s&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&index=15"
+        },
+        {
+          "title" : "Natural Policy Gradients, TRPO, PPO - John Schulman, Berkey DRL Bootcamp - (RECAP, optional)",
+          "link" : "https:\/\/www.youtube.com\/watch?v=xvRrgxcpaHY"
+        },
+        {
+          "title" : "Trust Region Policy Optimization - 2015",
+          "link" : "https:\/\/arxiv.org\/pdf\/1502.05477.pdf"
+        },
+        {
+          "title" : "Proximal Policy Optimization Algorithms - 2017",
+          "link" : "https:\/\/arxiv.org\/pdf\/1707.06347.pdf"
         }
-  ],
-  "description" : "This repository wants to guide you through the Deep Reinforcement Learning algorithms, from the most basic ones to the highly advanced AlphaGo Zero. You will find the main topics organized by week and the resources suggested to learn them. Also, every week I will provide practical examples implemented in python to help you better digest the theory. You are highly encouraged to modify and play with them!",
-  "imageName" : "journey_logo.png"
+      ],
+      "description" : "This repository wants to guide you through the Deep Reinforcement Learning algorithms, from the most basic ones to the highly advanced AlphaGo Zero. You will find the main topics organized by week and the resources suggested to learn them. Also, every week I will provide practical examples implemented in python to help you better digest the theory. You are highly encouraged to modify and play with them!",
+      "imageName" : "journey_logo.png"
 }
