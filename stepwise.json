@@ -2,142 +2,146 @@
       {
       "id" : "ABD33D51-FAC3-44D7-B79C-02D8E5DD1215",
       "title" : "60 Days RL Challenge",
+      "author": "Andrea Lonza",
+      "source": "https://github.com/andri27-ts/60_Days_RL_Challenge",
       "pages" : [
         {
           "title" : "An introduction to Reinforcement Learning",
-          "link" : "https:\/\/www.youtube.com\/watch?v=JgvyzIkgxF0"
+          "link" : "https://www.youtube.com/watch?v=JgvyzIkgxF0"
         },
         {
           "title" : "Introduction and course overview - CS294 by Levine",
-          "link" : "https:\/\/www.youtube.com\/watch?v=Q4kF8sfggoI&index=1&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3"
+          "link" : "https://www.youtube.com/watch?v=Q4kF8sfggoI&index=1&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3"
         },
         {
           "title" : "Deep Reinforcement Learning: Pong from Pixels by Karpathy",
-          "link" : "http:\/\/karpathy.github.io\/2016\/05\/31\/rl\/"
+          "link" : "http://karpathy.github.io/2016/05/31/rl/"
         },
         {
           "title" : "Markov Decision Process - RL by David Silver",
-          "link" : "https:\/\/www.youtube.com\/watch?v=lfHX2hHRMVQ&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=2"
+          "link" : "https://www.youtube.com/watch?v=lfHX2hHRMVQ&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=2"
         },
         {
           "title" : "Planning by Dynamic Programming - RL by David Silver",
-          "link" : "https:\/\/www.youtube.com\/watch?v=Nd1-UUMVfz4&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=3"
+          "link" : "https://www.youtube.com/watch?v=Nd1-UUMVfz4&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=3"
         },
         {
           "title" : "Model-Free Prediction - RL by David Silver",
-          "link" : "https:\/\/www.youtube.com\/watch?v=PnHCvfgC_ZA&index=4&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-"
+          "link" : "https://www.youtube.com/watch?v=PnHCvfgC_ZA&index=4&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-"
         },
         {
           "title" : "Model-Free Control - RL by David Silver",
-          "link" : "https:\/\/www.youtube.com\/watch?v=0g4j2k_Ggc4&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=5"
+          "link" : "https://www.youtube.com/watch?v=0g4j2k_Ggc4&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=5"
         },
         {
           "title" : "Q-learning applied to FrozenLake",
-          "link" : "https:\/\/github.com\/andri27-ts\/60_Days_RL_Challenge\/blob\/master\/Week2\/frozenlake_Qlearning.ipynb"
+          "link" : "https://github.com/andri27-ts/60_Days_RL_Challenge/blob/master/Week2/frozenlake_Qlearning.ipynb"
         },
         {
           "title" : "Reinforcement Learning An Introduction - Sutton, Barto",
-          "link" : "https:\/\/web.stanford.edu\/class\/psych209\/Readings\/SuttonBartoIPRLBook2ndEd.pdf"
+          "link" : "https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf"
         },
         {
           "title" : "Value functions introduction - DRL UC Berkley by Sergey Levine",
-          "link" : "https:\/\/www.youtube.com\/watch?v=k1vNh4rNYec&index=6&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3"
+          "link" : "https://www.youtube.com/watch?v=k1vNh4rNYec&index=6&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3"
         },
         {
           "title" : "Value functions approximation - RL by David Silver",
-          "link" : "https:\/\/www.youtube.com\/watch?v=UoPei5o4fps&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&index=6"
+          "link" : "https://www.youtube.com/watch?v=UoPei5o4fps&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&index=6"
         },
         {
           "title" : "Advanced Q-learning algorithms - DRL UC Berkley by Sergey Levine",
-          "link" : "https:\/\/www.youtube.com\/watch?v=nZXC5OdDfs4&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&index=7"
+          "link" : "https://www.youtube.com/watch?v=nZXC5OdDfs4&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&index=7"
         },
         {
           "title" : "Playing Atari with Deep Reinforcement Learning - 2013",
-          "link" : "https:\/\/arxiv.org\/pdf\/1312.5602.pdf"
+          "link" : "https://arxiv.org/pdf/1312.5602.pdf"
         },
         {
           "title" : "Human-level control through deep reinforcement learning - 2015",
-          "link" : "https:\/\/storage.googleapis.com\/deepmind-media\/dqn\/DQNNaturePaper.pdf"
+          "link" : "https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf"
         },
         {
           "title" : "Rainbow: Combining Improvements in Deep Reinforcement Learning - 2017",
-          "link" : "https:\/\/arxiv.org\/pdf\/1710.02298.pdf"
+          "link" : "https://arxiv.org/pdf/1710.02298.pdf"
         },
         {
           "title" : "Deep Reinforcement Learning with Double Q-learning - 2015",
-          "link" : "https:\/\/arxiv.org\/pdf\/1509.06461.pdf"
+          "link" : "https://arxiv.org/pdf/1509.06461.pdf"
         },
         {
           "title" : "Prioritized Experience Replay - 2015",
-          "link" : "https:\/\/arxiv.org\/pdf\/1511.05952.pdf"
+          "link" : "https://arxiv.org/pdf/1511.05952.pdf"
         },
         {
           "title" : "Dueling Network Architectures for Deep Reinforcement Learning - 2016",
-          "link" : "http:\/\/proceedings.mlr.press\/v48\/wangf16.pdf"
+          "link" : "http://proceedings.mlr.press/v48/wangf16.pdf"
         },
         {
           "title" : "Noisy networks for exploration - 2017",
-          "link" : "https:\/\/arxiv.org\/pdf\/1706.10295.pdf"
+          "link" : "https://arxiv.org/pdf/1706.10295.pdf"
         },
         {
           "title" : "Distributional Reinforcement Learning with Quantile Regression - 2017",
-          "link" : "https:\/\/arxiv.org\/pdf\/1710.10044.pdf"
+          "link" : "https://arxiv.org/pdf/1710.10044.pdf"
         },
         {
           "title" : "Policy gradient Methods - RL by David Silver",
-          "link" : "https:\/\/www.youtube.com\/watch?v=KHZVXao4qXs&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&index=7"
+          "link" : "https://www.youtube.com/watch?v=KHZVXao4qXs&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&index=7"
         },
         {
           "title" : "Policy gradient intro - CS294-112 by Sergey Levine (RECAP, optional)",
-          "link" : "https:\/\/www.youtube.com\/watch?v=XGmd3wcyDg8&t=0s&list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37&index=3"
+          "link" : "https://www.youtube.com/watch?v=XGmd3wcyDg8&t=0s&list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37&index=3"
         },
         {
           "title" : "Actor-Critic - CS294-112 by Sergey Levine (More in depth)",
-          "link" : "https:\/\/www.youtube.com\/watch?v=Tol_jw5hWnI&list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37&index=4"
+          "link" : "https://www.youtube.com/watch?v=Tol_jw5hWnI&list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37&index=4"
         },
         {
           "title" : "Policy Gradient methods for reinforcement learning with function approximation",
-          "link" : "https:\/\/papers.nips.cc\/paper\/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf"
+          "link" : "https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf"
         },
         {
           "title" : "Asynchronous Methods for Deep Reinforcement Learning",
-          "link" : "https:\/\/arxiv.org\/pdf\/1602.01783.pdf"
+          "link" : "https://arxiv.org/pdf/1602.01783.pdf"
         },
         {
           "title" : "Advanced policy gradients - CS294-112 by Sergey Levine",
-          "link" : "https:\/\/www.youtube.com\/watch?v=ycCtmp4hcUs&t=0s&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&index=15"
+          "link" : "https://www.youtube.com/watch?v=ycCtmp4hcUs&t=0s&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&index=15"
         },
         {
           "title" : "Natural Policy Gradients, TRPO, PPO - John Schulman, Berkey DRL Bootcamp - (RECAP, optional)",
-          "link" : "https:\/\/www.youtube.com\/watch?v=xvRrgxcpaHY"
+          "link" : "https://www.youtube.com/watch?v=xvRrgxcpaHY"
         },
         {
           "title" : "Trust Region Policy Optimization - 2015",
-          "link" : "https:\/\/arxiv.org\/pdf\/1502.05477.pdf"
+          "link" : "https://arxiv.org/pdf/1502.05477.pdf"
         },
         {
           "title" : "Proximal Policy Optimization Algorithms - 2017",
-          "link" : "https:\/\/arxiv.org\/pdf\/1707.06347.pdf"
+          "link" : "https://arxiv.org/pdf/1707.06347.pdf"
         }
       ],
       "description" : "This repository wants to guide you through the Deep Reinforcement Learning algorithms, from the most basic ones to the highly advanced AlphaGo Zero. You will find the main topics organized by week and the resources suggested to learn them. Also, every week I will provide practical examples implemented in python to help you better digest the theory. You are highly encouraged to modify and play with them!",
       "imageName" : "journey_logo.png"
-}, 
+},
 {
   "id" : "ABD33D51-FAC3-44D7-B79C-02D8E5DD1350",
   "title" : "Hardware for Deep Learning",
+  "author": "Grigory Sapunov",
+  "source": "https://blog.inten.to/hardware-for-deep-learning-current-state-and-trends-51c01ebbb6dc",
   "pages" : [
     {
       "title" : "Introduction",
-      "link" : "https:\/\/blog.inten.to\/hardware-for-deep-learning-current-state-and-trends-51c01ebbb6dc"
+      "link" : "https://blog.inten.to/hardware-for-deep-learning-current-state-and-trends-51c01ebbb6dc"
     },
     {
       "title" : "CPU",
-      "link" : "https:\/\/blog.inten.to\/cpu-hardware-for-deep-learning-b91f53cb18af"
+      "link" : "https://blog.inten.to/cpu-hardware-for-deep-learning-b91f53cb18af"
     },
     {
       "title" : "GPU",
-      "link" : "https:\/\/blog.inten.to\/hardware-for-deep-learning-part-3-gpu-8906c1644664"
+      "link" : "https://blog.inten.to/hardware-for-deep-learning-part-3-gpu-8906c1644664"
     }
   ],
   "description" : "Almost two years ago I started to include a Hardware section into my Deep Learning presentations. It was dedicated to a review of the current state and a set of trends for the nearest 1–5+ years. Here is a version from April 2016, and here is an update from October 2017. Last year we saw a lot of interesting announces, I gave some talks with updated slides, and now I am updating it for February/March 2018. I will publish it soon as a separate presentation, and this text(s) will be a companion post(s) to the slides with the goal to make it more readable and useful as a reference. I started to write it as a single post, but it soon became too large, so I decided to split it into a series of bite-sized posts.",
