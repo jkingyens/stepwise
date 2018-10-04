@@ -202,7 +202,7 @@
               "link": "https://github.com/andri27-ts/60_Days_RL_Challenge/blob/master/Week6"
             }
           ]
-        },
+        }
       ],
       "description" : "This repository wants to guide you through the Deep Reinforcement Learning algorithms, from the most basic ones to the highly advanced AlphaGo Zero. You will find the main topics organized by week and the resources suggested to learn them. Also, every week I will provide practical examples implemented in python to help you better digest the theory. You are highly encouraged to modify and play with them!",
       "imageName" : "journey_logo.png"
