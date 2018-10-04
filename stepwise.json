@@ -196,7 +196,7 @@
             {
               "title": "Evolution Strategies as a Scalable Alternative to Reinforcement Learning",
               "link": "https://arxiv.org/pdf/1703.03864.pdf"
-            }
+            },
             {
               "title": "Project: Implement a ES or GA",
               "link": "https://github.com/andri27-ts/60_Days_RL_Challenge/blob/master/Week6"
