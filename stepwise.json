@@ -233,5 +233,116 @@
   ],
   "description" : "Almost two years ago I started to include a Hardware section into my Deep Learning presentations. It was dedicated to a review of the current state and a set of trends for the nearest 1–5+ years. Here is a version from April 2016, and here is an update from October 2017. Last year we saw a lot of interesting announces, I gave some talks with updated slides, and now I am updating it for February/March 2018. I will publish it soon as a separate presentation, and this text(s) will be a companion post(s) to the slides with the goal to make it more readable and useful as a reference. I started to write it as a single post, but it soon became too large, so I decided to split it into a series of bite-sized posts.",
   "imageName" : "deep_learning_hw.png"
+}, {
+  "id" : "ABD33D51-FAC3-44D7-B79C-02D8E5DD1550",
+  "title": "Introduction to Machine Learning",
+  "author": "Richard Zemel",
+  "source": "http://www.cs.toronto.edu/%7Ezemel/inquiry/week_detail.php?ID=130",
+  "description": "You should understand basic probability and statistics, and college-level algebra and calculus. For example it is expected that you know about standard probability distributions (Gaussians, Poisson), and also how to calculate derivatives. Knowledge of linear algebra is also expected, and knowledge of mathematics underlying probability models will be useful. For the programming assignments, you should have some background in programming, and it will be very helpful if you know Matlab or Python.",
+  "image": "uoftml.png",
+  "sections": [
+    {
+      "title": "All",
+      "pages": [
+        {
+          "title": "Introduction to Machine Learning",
+          "link": "http://www.cs.toronto.edu/%7Ezemel/documents/2515/01intro-2515.pdf"
+        },
+        {
+          "title": "Classification",
+          "link": "http://www.cs.toronto.edu/%7Ezemel/documents/2515/02classify-2515.pdf"
+        },
+        {
+          "title": "Tutorial: Probability review",
+          "link": "http://www.cs.toronto.edu/%7Ezemel/documents/2515/Tutorial1-2515-ReviewProbability.pdf"
+        },
+        {
+          "title": "Nonparameteric Methods",
+          "link": "http://www.cs.toronto.edu/%7Ezemel/documents/2515/03nonpar-2515.pdf"
+        },
+        {
+          "title": "Optimization for ML",
+          "link": "http://www.cs.toronto.edu/%7Ezemel/documents/2515/Tutorial2-2515-Optim.pdf"
+        },
+        {
+          "title": "Optimization for ML (code)",
+          "link": "http://www.cs.toronto.edu/%7Ezemel/documents/2515/optdemo.py"
+        },
+        {
+          "title": "Multiclass & Generative Classifiers",
+          "link": "http://www.cs.toronto.edu/%7Ezemel/documents/2515/04prob.pdf"
+        },
+        {
+          "title": "Nearest Neighbors and Decision Trees",
+          "link": "http://www.cs.toronto.edu/%7Ezemel/documents/2515/Tutorial3-2515.pdf"
+        },
+        {
+          "title": "Project",
+          "link": "http://www.cs.toronto.edu/%7Ezemel/documents/2515/projects.pdf"
+        },
+        {
+          "title": "Neural Networks",
+          "link": "http://www.cs.toronto.edu/%7Ezemel/documents/2515/05nnets-2515.pdf"
+        },
+        {
+          "title": "Naive Bayes & Gaussian Bayes Classifiers",
+          "link": "http://www.cs.toronto.edu/%7Ezemel/documents/2515/Tutorial4-2515-nb-gbc.pdf"
+        },
+        {
+          "title": "Clustering, Mixture Models, and EM",
+          "link": "http://www.cs.toronto.edu/%7Ezemel/documents/2515/06cluster-2515.pdf"
+        },
+        {
+          "title": "Neural Networks tutorial",
+          "link": "http://www.cs.toronto.edu/%7Ezemel/documents/2515/neural_nets.pdf"
+        },
+        {
+          "title": "Continuous Latent Variable Models",
+          "link": "http://www.cs.toronto.edu/%7Ezemel/documents/2515/07pca-2515.pdf"
+        },
+        {
+          "title": "Continuous Latent Variable Models Part 2",
+          "link": "http://www.cs.toronto.edu/%7Ezemel/documents/2515/07fa-2515.pdf"
+        },
+        {
+          "title": "Clustering and EM",
+          "link": "http://www.cs.toronto.edu/%7Ezemel/documents/2515/tutorial-2515-clustering.pdf"
+        },
+        {
+          "title": "Assignment",
+          "link": "http://www.cs.toronto.edu/%7Ezemel/documents/2515/hw2-2515.pdf"
+        },
+        {
+          "title": "Support Vector Machines",
+          "link": "http://www.cs.toronto.edu/%7Ezemel/documents/2515/08svm-2515.pdf"
+        },
+        {
+          "title": "Tutorial: PCA",
+          "link": "http://www.cs.toronto.edu/%7Ezemel/documents/2515/PCA_tutorial.pdf"
+        },
+        {
+          "title": "Structured Prediction",
+          "link": "http://www.cs.toronto.edu/%7Ezemel/documents/2515/09-structPred.pdf"
+        },
+        {
+          "title": "SVMs",
+          "link": "http://www.cs.toronto.edu/%7Ezemel/documents/2515/SVM-Tutorial.pdf"
+        },
+        {
+          "title": "Combining Models",
+          "link": "http://www.cs.toronto.edu/%7Ezemel/documents/2515/10ensemble-2515.pdf"
+        },
+        {
+          "title": "Reinforcement Learning",
+          "link": "http://www.cs.toronto.edu/%7Ezemel/documents/2515/11rl-2515.pdf"
+        },
+        {
+          "title": "RL Tutorial",
+          "link": "http://www.cs.toronto.edu/%7Ezemel/documents/2515/rltutorial.pdf"
+        }
+      ]
+    }
+  ]
+
 }
 ]
