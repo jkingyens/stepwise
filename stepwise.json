@@ -239,7 +239,7 @@
   "author": "Richard Zemel",
   "source": "http://www.cs.toronto.edu/%7Ezemel/inquiry/week_detail.php?ID=130",
   "description": "You should understand basic probability and statistics, and college-level algebra and calculus. For example it is expected that you know about standard probability distributions (Gaussians, Poisson), and also how to calculate derivatives. Knowledge of linear algebra is also expected, and knowledge of mathematics underlying probability models will be useful. For the programming assignments, you should have some background in programming, and it will be very helpful if you know Matlab or Python.",
-  "image": "uoftml.png",
+  "imageName": "uoftml.png",
   "sections": [
     {
       "title": "All",
@@ -343,6 +343,5 @@
       ]
     }
   ]
-
 }
 ]
