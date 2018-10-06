@@ -233,32 +233,5 @@
   ],
   "description" : "Almost two years ago I started to include a Hardware section into my Deep Learning presentations. It was dedicated to a review of the current state and a set of trends for the nearest 1–5+ years. Here is a version from April 2016, and here is an update from October 2017. Last year we saw a lot of interesting announces, I gave some talks with updated slides, and now I am updating it for February/March 2018. I will publish it soon as a separate presentation, and this text(s) will be a companion post(s) to the slides with the goal to make it more readable and useful as a reference. I started to write it as a single post, but it soon became too large, so I decided to split it into a series of bite-sized posts.",
   "imageName" : "deep_learning_hw.png"
-},
-{
-  "id" : "ABD33D51-FAC3-44D7-B79C-02D8E5DD1350",
-  "title" : "Hardware for Deep Learning",
-  "author": "Grigory Sapunov",
-  "source": "https://blog.inten.to/hardware-for-deep-learning-current-state-and-trends-51c01ebbb6dc",
-  "sections" : [
-    {
-      "title": "All",
-      "pages": [
-      {
-        "title" : "Introduction",
-        "link" : "https://blog.inten.to/hardware-for-deep-learning-current-state-and-trends-51c01ebbb6dc"
-      },
-      {
-        "title" : "CPU",
-        "link" : "https://blog.inten.to/cpu-hardware-for-deep-learning-b91f53cb18af"
-      },
-      {
-        "title" : "GPU",
-        "link" : "https://blog.inten.to/hardware-for-deep-learning-part-3-gpu-8906c1644664"
-      }
-      ]
-    }
-  ],
-  "description" : "Almost two years ago I started to include a Hardware section into my Deep Learning presentations. It was dedicated to a review of the current state and a set of trends for the nearest 1–5+ years. Here is a version from April 2016, and here is an update from October 2017. Last year we saw a lot of interesting announces, I gave some talks with updated slides, and now I am updating it for February/March 2018. I will publish it soon as a separate presentation, and this text(s) will be a companion post(s) to the slides with the goal to make it more readable and useful as a reference. I started to write it as a single post, but it soon became too large, so I decided to split it into a series of bite-sized posts.",
-  "imageName" : "deep_learning_hw.png"
 }
 ]
