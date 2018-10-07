@@ -1,6 +1,6 @@
 # Stepwise
 
-## Curated collection of online courses for machine learning 
+## Learn ML using stepwise app
 
 Access these courses on the go by downloading Stepwise for iOS beta [from here](https://testflight.apple.com/join/9zGFVHu8)
 
