@@ -8,6 +8,7 @@ Access these courses on the go by downloading Stepwise for iOS beta [from here](
 
 *  [60 Days RL Challenge](https://github.com/andri27-ts/60_Days_RL_Challenge)
 *  [Hardware for Deep Learning](https://blog.inten.to/hardware-for-deep-learning-current-state-and-trends-51c01ebbb6dc)
+*  [Introduction to Machine Learning](http://www.cs.toronto.edu/%7Ezemel/inquiry/week_detail.php?ID=130)
 
 ## Submit Courses
 
