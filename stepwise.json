@@ -396,7 +396,7 @@
     },
     {
       "title": "Play to Learn",
-      "pages": [ 
+      "pages": [
         {
           "title": "Face Recognition on a subset of the Labeled Faces in the Wild",
           "link": "http://nbviewer.jupyter.org/github/ogrisel/notebooks/blob/master/Labeled%20Faces%20in%20the%20Wild%20recognition.ipynb"
@@ -416,9 +416,51 @@
         {
           "title": "Detect Algorithmically generated domains",
           "link": "http://nbviewer.jupyter.org/github/ClickSecurity/data_hacking/blob/master/dga_detection/DGA_Domain_Detection.ipynb"
-        }, { 
+        }, {
           "title": "Detect SQL Injection",
           "link": "http://nbviewer.jupyter.org/github/ClickSecurity/data_hacking/blob/master/sql_injection/sql_injection.ipynb"
+        }
+      ]
+    }, {
+      "id" : "ABD33D51-FAC3-44D7-B79C-F2D8E5DD8550",
+      "title": "The Compassionate Brain",
+      "author": "Dr. Rick Hanson",
+      "source": "http://live.soundstrue.com/compassionatebrain/",
+      "description": "In each interview, Dr. Hanson is joined by a world-class scholar/teacher, including Richie Davidson, Dan Siegel, Tara Brach, Dacher Keltner, Kelly McGonigal, Kristin Neff, and Jean Houston. They discuss different ways to use the power of neuroplasticity—how the mind can change the brain to transform the mind—to open the heart, build courage, find compassion, forgive oneself and others, and heal the world.",
+      "imageName": "compassionate.png",
+      "sections": [
+        {
+          "title": "All",
+          "pages": [
+            {
+              "title": "How the Mind Changes the Brain",
+              "link": "http://live.soundstrue.com/compassionatebrain/player.php?media_id=1sts1&ptype=media_link_watch"
+            }, {
+              "title": "Mindfulness of Oneself and Others",
+              "link": "http://live.soundstrue.com/compassionatebrain/player.php?media_id=2sts1&ptype=media_link_watch"
+            }, {
+              "title": "Cultivating a Forgiving Heart",
+              "link": "http://live.soundstrue.com/compassionatebrain/player.php?media_id=3sts1&ptype=media_link_watch"
+            }, {
+              "title": "The Evolution of Compassion: From Gene to Meme",
+              "link": "http://live.soundstrue.com/compassionatebrain/player.php?media_id=4sts1&ptype=media_link_watch"
+            }, {
+              "title": "Balancing Compassion and Assertiveness",
+              "link": "http://live.soundstrue.com/compassionatebrain/player.php?media_id=5sts1&ptype=media_link_watch"
+            }, {
+              "title": "Balancing Compassion and Assertiveness",
+              "link": "http://live.soundstrue.com/compassionatebrain/player.php?media_id=5sts1&ptype=media_link_watch"
+            }, {
+              "title": "The Power of Self-Compassion",
+              "link": "http://live.soundstrue.com/compassionatebrain/player.php?media_id=6sts1&ptype=media_link_watch"
+            }, {
+              "title": "Compassion in the Wider World",
+              "link": "http://live.soundstrue.com/compassionatebrain/player.php?media_id=7sts1&ptype=media_link_watch"
+            }, {
+              "title": "At Home in the Heart—Practical Takeaways from This Series.",
+              "link": "http://live.soundstrue.com/compassionatebrain/player.php?media_id=8sts1&ptype=media_link_watch"
+            }
+          ]
         }
       ]
     }
