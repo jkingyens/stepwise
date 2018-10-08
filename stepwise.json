@@ -421,7 +421,10 @@
           "link": "http://nbviewer.jupyter.org/github/ClickSecurity/data_hacking/blob/master/sql_injection/sql_injection.ipynb"
         }
       ]
-    }, {
+    }
+  ]
+},
+{
       "id" : "ABD33D51-FAC3-44D7-B79C-F2D8E5DD8550",
       "title": "The Compassionate Brain",
       "author": "Dr. Rick Hanson",
@@ -458,9 +461,7 @@
               "link": "http://live.soundstrue.com/compassionatebrain/player.php?media_id=8sts1&ptype=media_link_watch"
             }
           ]
-        }
-      ]
-    }
-  ]
-}
+      }
+    ]
+  }
 ]
